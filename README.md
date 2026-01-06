@@ -1,5 +1,5 @@
 <pre>
-  @echo off
+@echo off
 
 mode 52,25
 title .Minecraft save!
