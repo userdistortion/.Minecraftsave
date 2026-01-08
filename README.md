@@ -14,7 +14,7 @@ Conseguir que el programa hiciera todo esto fue complicado, pues hace tiempo que
 
 En fin, este programa es mi forma de devolverle a Minecraft (java) un aporte que debí hacer hace tiempo cuando el juego era más popular. Sé que no tendrá demasiada repercusión hoy en día y será una herramienta que pocos usarán, pero me siento un poco mejor al saber que lo hice, que di a Minecraft lo que debía y que, en esencia, le entrego esto que es parte de mi ser.
 
-# Código
+## Código
 
 <pre>
 @echo off
