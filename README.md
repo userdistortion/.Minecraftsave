@@ -1,10 +1,16 @@
-# .Minecraftsave! (Copia de seguridad de la carpeta .minecraft)
+# .Minecraftsave!
 
 ## Descarga
 
 [.Minecraft save! (full).zip](https://github.com/user-attachments/files/21359320/default.Minecraft.save.full.zip)
 
 [.Minecraft save! (slim).zip](https://github.com/user-attachments/files/21359321/default.Minecraft.save.slim.zip)
+
+Este programa permite crear copias de seguridad de la carpeta .minecraft (Minecraft Java - Windows) cuando se ejecute el archivo .bat. Ofrece tres opciones de guardado: 1) .minecraft (completo, mods, config, etc.), 2) Mudnos, 3) Capturas.
+
+Es el programa por excelencia para mantener copias locales de la información de Minecraft Java en Windows 7, 8, 10, 11, sin necesitar de instalación o configuraciones extras. Al ejecutarse crea sus propias carpetas de distribución donde actualiza los contenidos sin afectar las copias anteriores, esto permite guardar mundos y acutalizarlos, guardar fotos sin modificar las anteriores, guardar .minecraft completo asignando un nombre nuevo al .Minecraft para registrar la fecha de guardadado, la cual puede ser eliminada fácilmente al momento de una nueva instalación.
+
+Este es el mejor programa local para Minecraft (Java) en Windows. La herramienta esencial para cualquier jugador que quiera conservar su progreso dentro del juego.
 
 ## Historia
 
